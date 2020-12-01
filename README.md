@@ -7,7 +7,6 @@ The course provides knowledge and tools to understand the fundamental interactio
 3.	How to implement and solve energy-related mathematical problems with GAMS.
 4.	How to choose appropriate optimization methods and interpret results.
  
-Lectures: Prof. Dr. Felix Müsgens 
-Tutorials: Iegor Riepin (2016-2019) | Smaranda Sgarciu (2020)
+Lectures: Prof. Dr. Felix Müsgens | Tutorials: Iegor Riepin (2016-2019) & Smaranda Sgarciu (2020)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />These materials are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> that provides everyone with free and perpetual permission to access, edit and share copies of open educational resources.
